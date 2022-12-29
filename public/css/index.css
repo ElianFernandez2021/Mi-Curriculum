@@ -1,0 +1,18 @@
+.columnaIzquierda{
+    display: flex;
+    flex-direction: column;
+}
+.miFoto{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.fondoIzquierdo{
+    z-index: -9999;
+    width: 216px;
+    height: 481px;
+}
+.cuadradoDentroDeCuadrado{
+    width: 16px;
+    height: 16px;
+}
